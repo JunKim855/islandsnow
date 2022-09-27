@@ -1,0 +1,11 @@
+li {
+  padding: 0px 4px
+}
+
+#cart-dropdown {
+  border: none;
+}
+
+.bi-cart {
+  padding-right: 0;
+}
