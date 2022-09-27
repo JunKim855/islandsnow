@@ -20,3 +20,18 @@ input {
   padding-left: 10px;
   border: none;
 }
+
+footer {
+  color: white;
+  background-color: #2C2C2B;
+  margin: 0px 12px;
+}
+
+.footer-card {
+  margin: 40px 0px;
+}
+
+.footer-card > a {
+  color: white;
+  text-decoration: none;
+}
