@@ -3,9 +3,20 @@ li {
 }
 
 #cart-dropdown {
-  border: none;
+  padding: 4px 4px 4px 0px
 }
 
-.bi-cart {
-  padding-right: 0;
+#logo {
+  width: 350px;
+  margin-bottom: 30px;
+  margin-top: 10px
+}
+
+#category-bar > .btn-group {
+  margin: 0px 20px;
+}
+
+input {
+  padding-left: 10px;
+  border: none;
 }
